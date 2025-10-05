@@ -54,15 +54,11 @@ My background in both **QA** and **development** helps me understand projects fr
 ---
 
 ## 🏆 Achievements & Certifications
-- 🥇 **Best Capstone Awardee** — Gamified Learning Management System, Pamantasan ng Lungsod Pasig  
-- 🎓 **Dean’s Lister** — Pamantasan ng Lungsod Pasig  
-- 🧾 **TESDA National Certificate II** — Computer System Servicing  
 - ☁️ **AWS Cloud Quest: Cloud Practitioner**  
 - 🧠 **IBM Artificial Intelligence Fundamentals**  
 - 🌐 **Cisco CCNA: Introduction to Networks**  
 - 🔐 **Cisco Cybersecurity Essentials**
-
-
+- 🧾 **TESDA National Certificate II** — Computer System Servicing  
 ---
 
 > “Do not pray for easy lives. Pray to be stronger men” – John F. Kennedy
