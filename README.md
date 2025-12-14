@@ -4,12 +4,13 @@
 📍 Philippines  
 📧 [manto.joshua.ccs@gmail.com](mailto:manto.joshua.ccs@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/joshua-manto-19466a267/) 
-• [GitHub](https://github.com/mantojoshua)
+🧑‍💻[GitHub](https://github.com/mantojoshua)
 
 ---
 
 ## 🧩 Portfolio
-https://mantojoshua.github.io/) 
+
+➡️ https://mantojoshua.github.io/
 
 ---
 
