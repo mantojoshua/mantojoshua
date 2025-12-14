@@ -3,11 +3,17 @@
 🎮 **Quality Assurance Technician | Software & Game Developer**  
 📍 Philippines  
 📧 [manto.joshua.ccs@gmail.com](mailto:manto.joshua.ccs@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/joshua-manto-19466a267/) • [Portfolio](https://mantojoshua.github.io/) • [GitHub](https://github.com/mantojoshua)
+🔗 [LinkedIn](https://www.linkedin.com/in/joshua-manto-19466a267/) 
+• [GitHub](https://github.com/mantojoshua)
 
 ---
 
-## 🧩 About Me
+## 🧩 Portfolio
+https://mantojoshua.github.io/) 
+
+---
+
+## 🤵 About Me
 
 I'm a passionate **Quality Assurance Technician** with experience in **software testing, automation**, and **software development**.  
 I love blending programming and gamification to create innovative, fun, and functional solutions.
