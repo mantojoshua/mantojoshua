@@ -26,6 +26,14 @@ My background in both **QA** and **development** helps me understand projects fr
 
 ## 🛠️ Skills & Tools
 
+### 💬 Languages & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs,js,ts,python,php,mysql&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ionic,react,vue,tailwind,electron,blender,unity,godot&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=aws,selenium,postman,github,githubactions,androidstudio,figma,n8n&theme=dark)](https://skillicons.dev)
+
 ### 📲 Software Development
 - **Programming Languages:** Java, Kotlin, C#, JavaScript, SQL, Python
 - **Mobile Development:** Android & iOS with Ionic, Java, Kotlin
